@@ -2,3 +2,8 @@ p {
     background-color: #09f;
     color: #fff;
 }
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #f00;
+}
